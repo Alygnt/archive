@@ -1,7 +1,9 @@
-Package: nphisher
-Version: 1.2
+Package: clifty
+Version: 1.5
 Architecture: all
 Maintainer: @Alygnt
 Depends: curl, php, unzip, wget
-Homepage: https://github.com/alygnt/nphisher
-Description: World's most powerful phishing tool
+Homepage: https://github.com/alygnt/clifty
+Description: World's most powerful and compact phishing tool
+ .
+ (Repackaged on Sun, 19 Nov 2023 23:53:46 +0530 by dpkg-repack.)

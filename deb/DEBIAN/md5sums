@@ -1,0 +1,17 @@
+8bc31e075f08f221ce22b776030fdd1f  usr/bin/clifty
+1ebbd3e34237af26da5dc08a4e440464  usr/opt/clifty/LICENSE
+49efd1084d91b219ce66533d3f2669bb  usr/opt/clifty/README.md
+292688bc3d20b04e3110812253e14da8  usr/opt/clifty/assets/colorcodes.sh
+9c48e9b9c0ce743ee19c4a750e9b8b5e  usr/opt/clifty/assets/dgf/dgf.sh
+24dd01ae1546e63e95b922721f54e82d  usr/opt/clifty/assets/dumps/line.txt
+d784fa8b6d98d27699781bd9a7cf19f0  usr/opt/clifty/assets/dumps/space.txt
+af63bccb78145bb19b2c71380cd26e14  usr/opt/clifty/assets/email/sendEmail.sh
+6ed23a20c3d6111ebf4988ddc5552fe8  usr/opt/clifty/assets/email/template.json
+1ff856f43469d676ff01ad9da0bc7fbf  usr/opt/clifty/assets/fetch/device.html
+94355ecb086752c2c0855a9bbdc68e34  usr/opt/clifty/assets/fetch/device.js
+3e0cfa79d2cd128ff8ecd8d9d8ec1a53  usr/opt/clifty/assets/fetch/device_post.php
+a6feb85314c8b11d08d0667fbab18656  usr/opt/clifty/assets/fetch/index.php
+75ad222dd49c25992b379e2cf5891a30  usr/opt/clifty/assets/fetch/ip.php
+47df80abf71a6b14ec11b93e761357d9  usr/opt/clifty/assets/info/sites.txt
+25198dbbb5f787214992c13a596f5751  usr/opt/clifty/assets/update/version.txt
+13b15bea92c00f282df6ad7fe2456bbe  usr/opt/clifty/clifty.sh
